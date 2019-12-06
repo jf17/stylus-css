@@ -1,0 +1,29 @@
+@-moz-document domain("www.freelancer.com.ru") {
+    .pinky-template .main-content {
+        background: #0b0b0b;
+    }
+    .NavigationRoot[_ngcontent-webapp-c5] {
+        background-color: #4d525b;
+    }
+    .pinky-template .search-result-item:last-child {
+        background-color: #939cac;
+    }
+    .pinky-template .search-result-header {
+        background-color: #939cac;
+    }
+    .pinky-template .filter-item.is-active .filter-item-expansion {
+        background-color: #939cac;
+    }
+    .PageContainer[_ngcontent-webapp-c72] {
+        background: #0b0b0b;
+    }
+    .NavigationRoot[_ngcontent-webapp-c13] {
+         background-color: #939cac;
+    }
+    .CardBody[data-size=mid][_ngcontent-webapp-c52] {
+       background-color: #939cac;
+    }
+    .CardBody[data-size=small][_ngcontent-webapp-c52] {
+        background-color: #939cac;
+    }
+    }
