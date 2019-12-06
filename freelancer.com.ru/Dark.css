@@ -26,4 +26,10 @@
     .CardBody[data-size=small][_ngcontent-webapp-c52] {
         background-color: #939cac;
     }
+    .PageContainer[_ngcontent-webapp-c13] {
+        background: #0b0b0b;
+    }
+    .NavigationRoot[_ngcontent-webapp-c66]{
+        background-color: #939cac;
+    }
     }
